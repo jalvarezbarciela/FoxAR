@@ -5,3 +5,7 @@ Un juego en realidad aumentada donde usando Image Target un zorro tiene que ir e
 Imagen:
 
 ![zorro](https://user-images.githubusercontent.com/56076790/111965006-88b33a80-8af5-11eb-96eb-4bd7689245d3.jpg)
+
+Video de prueba
+
+https://drive.google.com/file/d/13VoLhyXAyQ5jpH1U-JlQ4xFCmO2HsKTQ/view?usp=sharing
