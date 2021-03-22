@@ -1,6 +1,6 @@
 # FoxAR
 
-Un juego en realidad aumentado donde usando Image Target un zorro tiene que ir esquivando obstaculos
+Un juego en realidad aumentada donde usando Image Target un zorro tiene que ir esquivando obstaculos
 
 Imagen:
 
